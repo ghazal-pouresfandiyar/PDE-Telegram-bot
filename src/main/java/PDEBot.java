@@ -1,5 +1,5 @@
+import org.telegram.telegrambots.api.objects.Update;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
-import org.telegram.telegrambots.meta.api.objects.Update;
 
 public class PDEBot extends TelegramLongPollingBot {
     public String getBotUsername() {
